@@ -1,0 +1,30 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/amiodarone-m2-cordarone---primary.py
+inputModule3:
+  class: File
+  path: python/amiodarone-m2-injection---primary.py
+inputModule4:
+  class: File
+  path: python/amiodarone-m2-200mg---primary.py
+inputModule5:
+  class: File
+  path: python/amiodarone-m2-ampoule---primary.py
+inputModule6:
+  class: File
+  path: python/amiodarone-m2-100mg---primary.py
+inputModule7:
+  class: File
+  path: python/amiodarone-m2-suspension---primary.py
+inputModule8:
+  class: File
+  path: python/amiodarone-m2-solution---primary.py
+inputModule9:
+  class: File
+  path: python/amiodarone-m2-150mg---primary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
